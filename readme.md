@@ -16,4 +16,4 @@ Projeto construído no curso Explorer Rocketseat
 
 ## 😍 Contato
 
-eu.gdcarvalho@gmail.com
+falecom@ocaradaprogramacao.com.br
