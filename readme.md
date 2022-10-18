@@ -6,7 +6,7 @@
 
 Projeto construído no curso Explorer Rocketseat
 
-[🔗 Clique aqui para acessar!](https://gdcarvalho.github.io/Projeto-02-Explorer/)
+[🔗 Clique aqui para acessar!](https://ocaradaprogramacao.com.br/projeto-02-explorer/)
 
 ## 🛠 Tecnologias
 - HTML
